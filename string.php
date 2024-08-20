@@ -2,7 +2,7 @@
 $strings = ["Hello", "World", "PHP", "Programming"];
 $stringsSplit = str_split($strings[0]);
 
-$vowels = ['a', 'e', 'i', 'o', 'u'];
+$vowels = ['a', 'e', 'i', 'o', 'u','A',''E,'I','O','U'];
 
 $totalArray = [];
 for ($i = 0; $i < count($strings); $i++) {
